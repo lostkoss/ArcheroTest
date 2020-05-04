@@ -1,0 +1,1 @@
+{"_sliderDamage":0.0,"_flyerDamage":0.0,"_bossDamage":10.0,"_playerDamage":0.0,"_sliderSpeed":0.0,"_flyerSpeed":0.0,"_bossSpeed":0.0,"_playerSpeed":0.0,"_sliderBulletSpeed":0.0,"_playerBulletSpeed":0.0,"_bossBulletSpeed":0.0,"_flyerBulletSpeed":0.0,"_sliderHp":0.0,"_flyerHp":0.0,"_bossHp":0.0,"_playerHp":0.0}

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6657be3855131b9428092d78f6ee423d, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  jsonConfigDowload: 0
+  playerBullet: {fileID: 5523358740710252278, guid: 715ccedca952a414bb1894cccb4ed58e,
+    type: 3}
+  enemyBullet: {fileID: 5523358740710252278, guid: 7192b9d442eeaed4791a2ffde809e064,
+    type: 3}
+  flyerEnemy: {fileID: 2088398573040663235, guid: 718e94403af6ef44ca7311c6b856982d,
+    type: 3}
+  sliderEnemy: {fileID: 4307838270256361534, guid: 5af74b924288bd3488a8f3282ce62a3d,
+    type: 3}
+  bossEnemy: {fileID: 5652511192669725930, guid: b8310057674450a41bd548615afd7e34,
+    type: 3}
+  player: {fileID: 6896740717221309235, guid: bfedab13fe42fb944b41b2dc8897c850, type: 3}
+  sliderDamage: 1
+  flyerDamage: 1
+  bossDamage: 1
+  playerDamage: 10
+  sliderSpeed: 3
+  flyerSpeed: 3
+  bossSpeed: 4
+  playerSpeed: 11
+  sliderBulletSpeed: 5
+  playerBulletSpeed: 11
+  bossBulletSpeed: 5
+  flyerBulletSpeed: 5
+  sliderHp: 1
+  flyerHp: 1
+  bossHp: 1
+  playerHp: 20
